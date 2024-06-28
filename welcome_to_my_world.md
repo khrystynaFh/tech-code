@@ -40,3 +40,7 @@ normal
 3. Sweets
     1. Chocolate
     2. Cookies
+
+## Link
+
+[Click here](https://github.com/khrystynaFh/tech-code/blob/main/welcome_to_my_world.md)
