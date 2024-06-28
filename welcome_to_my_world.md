@@ -5,3 +5,11 @@
 #### Heading H4
 ##### Heading H5
 ###### Heading H6
+
+normal
+
+*italic*
+
+**bold**
+
+***bold and italic***
