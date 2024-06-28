@@ -1,15 +1,14 @@
 # Welcome to my world!
 
-## Headings
+## Section with headings and emphasis
 
-### Heading H3
+### Headings:
+
 #### Heading H4
 ##### Heading H5
 ###### Heading H6
 
----
-
-## Emphasis
+### Emphasis:
 
 normal
 
@@ -21,7 +20,9 @@ normal
 
 ---
 
-## Unordered list
+## Section with lists
+
+### Unordered list
 
 + Item 1
     + Item 1.1
@@ -33,9 +34,7 @@ normal
     + Item 3.1
     + Item 3.2
 
----
-
-## Ordered list
+### Ordered list
 
 1. Vegetables
     1. Tomatoes
@@ -49,19 +48,19 @@ normal
 
 ---
 
-## Link
+## Section with a link and an image
+
+### Link
 
 [Click here](https://github.com/khrystynaFh/tech-code/blob/main/welcome_to_my_world.md)
 
----
-
-## Image
+### Image
 
 ![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg)
 
 ---
 
-## Code
+## Section with code
 
 ### Blockquote
 
@@ -83,7 +82,9 @@ for i in range(100):
 
 ---
 
-## Table
+## Section with a table and a task list
+
+### Table
 
 | Vegetables | Fruit   |
 |------------|---------|
@@ -91,9 +92,7 @@ for i in range(100):
 | Carrots    | Bananas |
 | Tomatoes   | Peaches |
 
----
-
-## Task list
+### Task list
 
 - [ ] Task 1
 - [ ] Task 2
