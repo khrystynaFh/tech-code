@@ -44,3 +44,7 @@ normal
 ## Link
 
 [Click here](https://github.com/khrystynaFh/tech-code/blob/main/welcome_to_my_world.md)
+
+## Image
+
+![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg)
