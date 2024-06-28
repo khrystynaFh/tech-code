@@ -47,7 +47,7 @@ normal
 
 ## Image
 
-![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg
+![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg)
 
 ## Code
 
