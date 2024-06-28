@@ -28,3 +28,15 @@ normal
 + Item 3
     + Item 3.1
     + Item 3.2
+
+## Ordered list
+
+1. Vegetables
+    1. Tomatoes
+    2. Cabbage
+2. Fruit
+    1. Apple
+    2. Banana
+3. Sweets
+    1. Chocolate
+    2. Cookies
