@@ -76,3 +76,9 @@ for i in range(100):
 | Cabbage    | Apples  |
 | Carrots    | Bananas |
 | Tomatoes   | Peaches |
+
+## Task list
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
