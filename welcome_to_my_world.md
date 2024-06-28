@@ -47,4 +47,24 @@ normal
 
 ## Image
 
-![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg)
+![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg
+
+## Code
+
+### Blockquote
+
+> This is a blockquote. \
+> This is a blockquote. \
+> This is a blockquote.
+
+### Inline code
+
+`print('Hello, World!')`
+
+### Code block
+
+```python
+print('Hello, World!')
+for i in range(100):
+    print(i)
+```
