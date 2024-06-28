@@ -7,6 +7,8 @@
 ##### Heading H5
 ###### Heading H6
 
+---
+
 ## Emphasis
 
 normal
@@ -16,6 +18,8 @@ normal
 **bold**
 
 ***bold and italic***
+
+---
 
 ## Unordered list
 
@@ -29,6 +33,8 @@ normal
     + Item 3.1
     + Item 3.2
 
+---
+
 ## Ordered list
 
 1. Vegetables
@@ -41,13 +47,19 @@ normal
     1. Chocolate
     2. Cookies
 
+---
+
 ## Link
 
 [Click here](https://github.com/khrystynaFh/tech-code/blob/main/welcome_to_my_world.md)
 
+---
+
 ## Image
 
 ![A picture of a kitten](https://www.britishcattery.com/userfls/shop/medium/2275_julian.jpg)
+
+---
 
 ## Code
 
@@ -69,6 +81,8 @@ for i in range(100):
     print(i)
 ```
 
+---
+
 ## Table
 
 | Vegetables | Fruit   |
@@ -76,6 +90,8 @@ for i in range(100):
 | Cabbage    | Apples  |
 | Carrots    | Bananas |
 | Tomatoes   | Peaches |
+
+---
 
 ## Task list
 
