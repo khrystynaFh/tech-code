@@ -57,11 +57,11 @@ This is bold text.
 
 \+
 
-`model.py`
+First create a `model.py` file.
 
 ```
 print('Hello Markdown')
-for i in range:
+for i in range(100):
     print(i)
 ```
 
